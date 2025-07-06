@@ -1,16 +1,18 @@
-# bloc_shared_theme_2
+🛠️ Flutter Theme Template (BLoC + SharedPreferences)
+This is a simple theming setup using BLoC and SharedPreferences.
 
-A new Flutter project.
+✨ Features:
+Default: System theme
 
-## Getting Started
+User can switch between Light, Dark, and System
 
-This project is a starting point for a Flutter application.
+Selected theme is saved using SharedPreferences
 
-A few resources to get you started if this is your first Flutter project:
+Clean BLoC structure for easy integration
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔁 How to Use:
+Just copy-paste the theme BLoC and UI code into your new Flutter project.
+It’s reusable — no need to set it up from scratch every time.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/1e510969-0af8-4509-bfe4-45973c6d621a" width="400" />
+<img src="https://github.com/user-attachments/assets/f7f6e103-0583-40a4-9f3a-8b2c2d123356" width="400" />
